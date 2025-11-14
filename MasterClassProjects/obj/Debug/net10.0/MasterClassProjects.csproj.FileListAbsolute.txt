@@ -1,0 +1,14 @@
+/home/chen/Documents/RiderProjects/MasterClassProjects/MasterClassProjects/bin/Debug/net10.0/MasterClassProjects
+/home/chen/Documents/RiderProjects/MasterClassProjects/MasterClassProjects/bin/Debug/net10.0/MasterClassProjects.deps.json
+/home/chen/Documents/RiderProjects/MasterClassProjects/MasterClassProjects/bin/Debug/net10.0/MasterClassProjects.runtimeconfig.json
+/home/chen/Documents/RiderProjects/MasterClassProjects/MasterClassProjects/bin/Debug/net10.0/MasterClassProjects.dll
+/home/chen/Documents/RiderProjects/MasterClassProjects/MasterClassProjects/bin/Debug/net10.0/MasterClassProjects.pdb
+/home/chen/Documents/RiderProjects/MasterClassProjects/MasterClassProjects/obj/Debug/net10.0/MasterClassProjects.GeneratedMSBuildEditorConfig.editorconfig
+/home/chen/Documents/RiderProjects/MasterClassProjects/MasterClassProjects/obj/Debug/net10.0/MasterClassProjects.AssemblyInfoInputs.cache
+/home/chen/Documents/RiderProjects/MasterClassProjects/MasterClassProjects/obj/Debug/net10.0/MasterClassProjects.AssemblyInfo.cs
+/home/chen/Documents/RiderProjects/MasterClassProjects/MasterClassProjects/obj/Debug/net10.0/MasterClassProjects.csproj.CoreCompileInputs.cache
+/home/chen/Documents/RiderProjects/MasterClassProjects/MasterClassProjects/obj/Debug/net10.0/MasterClassProjects.dll
+/home/chen/Documents/RiderProjects/MasterClassProjects/MasterClassProjects/obj/Debug/net10.0/refint/MasterClassProjects.dll
+/home/chen/Documents/RiderProjects/MasterClassProjects/MasterClassProjects/obj/Debug/net10.0/MasterClassProjects.pdb
+/home/chen/Documents/RiderProjects/MasterClassProjects/MasterClassProjects/obj/Debug/net10.0/MasterClassProjects.genruntimeconfig.cache
+/home/chen/Documents/RiderProjects/MasterClassProjects/MasterClassProjects/obj/Debug/net10.0/ref/MasterClassProjects.dll

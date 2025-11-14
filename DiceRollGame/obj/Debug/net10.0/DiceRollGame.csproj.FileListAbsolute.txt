@@ -1,0 +1,14 @@
+/home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/obj/Debug/net10.0/DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/obj/Debug/net10.0/DiceRollGame.AssemblyInfoInputs.cache
+/home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/obj/Debug/net10.0/DiceRollGame.AssemblyInfo.cs
+/home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/obj/Debug/net10.0/DiceRollGame.csproj.CoreCompileInputs.cache
+/home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/bin/Debug/net10.0/DiceRollGame
+/home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/bin/Debug/net10.0/DiceRollGame.deps.json
+/home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/bin/Debug/net10.0/DiceRollGame.runtimeconfig.json
+/home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/bin/Debug/net10.0/DiceRollGame.dll
+/home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/bin/Debug/net10.0/DiceRollGame.pdb
+/home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/obj/Debug/net10.0/DiceRollGame.dll
+/home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/obj/Debug/net10.0/refint/DiceRollGame.dll
+/home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/obj/Debug/net10.0/DiceRollGame.pdb
+/home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/obj/Debug/net10.0/DiceRollGame.genruntimeconfig.cache
+/home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/obj/Debug/net10.0/ref/DiceRollGame.dll
