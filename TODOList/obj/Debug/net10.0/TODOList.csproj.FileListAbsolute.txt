@@ -1,0 +1,14 @@
+/home/chen/Documents/RiderProjects/TODOList/TODOList/bin/Debug/net10.0/TODOList
+/home/chen/Documents/RiderProjects/TODOList/TODOList/bin/Debug/net10.0/TODOList.deps.json
+/home/chen/Documents/RiderProjects/TODOList/TODOList/bin/Debug/net10.0/TODOList.runtimeconfig.json
+/home/chen/Documents/RiderProjects/TODOList/TODOList/bin/Debug/net10.0/TODOList.dll
+/home/chen/Documents/RiderProjects/TODOList/TODOList/bin/Debug/net10.0/TODOList.pdb
+/home/chen/Documents/RiderProjects/TODOList/TODOList/obj/Debug/net10.0/TODOList.GeneratedMSBuildEditorConfig.editorconfig
+/home/chen/Documents/RiderProjects/TODOList/TODOList/obj/Debug/net10.0/TODOList.AssemblyInfoInputs.cache
+/home/chen/Documents/RiderProjects/TODOList/TODOList/obj/Debug/net10.0/TODOList.AssemblyInfo.cs
+/home/chen/Documents/RiderProjects/TODOList/TODOList/obj/Debug/net10.0/TODOList.csproj.CoreCompileInputs.cache
+/home/chen/Documents/RiderProjects/TODOList/TODOList/obj/Debug/net10.0/TODOList.dll
+/home/chen/Documents/RiderProjects/TODOList/TODOList/obj/Debug/net10.0/refint/TODOList.dll
+/home/chen/Documents/RiderProjects/TODOList/TODOList/obj/Debug/net10.0/TODOList.pdb
+/home/chen/Documents/RiderProjects/TODOList/TODOList/obj/Debug/net10.0/TODOList.genruntimeconfig.cache
+/home/chen/Documents/RiderProjects/TODOList/TODOList/obj/Debug/net10.0/ref/TODOList.dll
