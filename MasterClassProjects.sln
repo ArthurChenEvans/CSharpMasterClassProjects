@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterClassProjects", "Mast
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRollGame", "DiceRollGame\DiceRollGame.csproj", "{66FFC6AB-7C05-45A3-A064-E6BF60AEABAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookiesRecipeApp", "CookiesRecipeApp\CookiesRecipeApp.csproj", "{CC40AFAC-761A-4A09-9A06-3947CA19FA5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{66FFC6AB-7C05-45A3-A064-E6BF60AEABAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66FFC6AB-7C05-45A3-A064-E6BF60AEABAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66FFC6AB-7C05-45A3-A064-E6BF60AEABAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC40AFAC-761A-4A09-9A06-3947CA19FA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC40AFAC-761A-4A09-9A06-3947CA19FA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC40AFAC-761A-4A09-9A06-3947CA19FA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC40AFAC-761A-4A09-9A06-3947CA19FA5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
