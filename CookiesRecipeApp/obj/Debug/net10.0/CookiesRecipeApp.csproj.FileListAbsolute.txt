@@ -1,0 +1,15 @@
+/home/chen/Documents/RiderProjects/MasterClassProjects/CookiesRecipeApp/bin/Debug/net10.0/CookiesRecipeApp
+/home/chen/Documents/RiderProjects/MasterClassProjects/CookiesRecipeApp/bin/Debug/net10.0/CookiesRecipeApp.deps.json
+/home/chen/Documents/RiderProjects/MasterClassProjects/CookiesRecipeApp/bin/Debug/net10.0/CookiesRecipeApp.runtimeconfig.json
+/home/chen/Documents/RiderProjects/MasterClassProjects/CookiesRecipeApp/bin/Debug/net10.0/CookiesRecipeApp.dll
+/home/chen/Documents/RiderProjects/MasterClassProjects/CookiesRecipeApp/bin/Debug/net10.0/CookiesRecipeApp.pdb
+/home/chen/Documents/RiderProjects/MasterClassProjects/CookiesRecipeApp/obj/Debug/net10.0/CookiesRecipeApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/chen/Documents/RiderProjects/MasterClassProjects/CookiesRecipeApp/obj/Debug/net10.0/CookiesRecipeApp.AssemblyInfoInputs.cache
+/home/chen/Documents/RiderProjects/MasterClassProjects/CookiesRecipeApp/obj/Debug/net10.0/CookiesRecipeApp.AssemblyInfo.cs
+/home/chen/Documents/RiderProjects/MasterClassProjects/CookiesRecipeApp/obj/Debug/net10.0/CookiesRecipeApp.csproj.CoreCompileInputs.cache
+/home/chen/Documents/RiderProjects/MasterClassProjects/CookiesRecipeApp/obj/Debug/net10.0/CookiesRecipeApp.sourcelink.json
+/home/chen/Documents/RiderProjects/MasterClassProjects/CookiesRecipeApp/obj/Debug/net10.0/CookiesRecipeApp.dll
+/home/chen/Documents/RiderProjects/MasterClassProjects/CookiesRecipeApp/obj/Debug/net10.0/refint/CookiesRecipeApp.dll
+/home/chen/Documents/RiderProjects/MasterClassProjects/CookiesRecipeApp/obj/Debug/net10.0/CookiesRecipeApp.pdb
+/home/chen/Documents/RiderProjects/MasterClassProjects/CookiesRecipeApp/obj/Debug/net10.0/CookiesRecipeApp.genruntimeconfig.cache
+/home/chen/Documents/RiderProjects/MasterClassProjects/CookiesRecipeApp/obj/Debug/net10.0/ref/CookiesRecipeApp.dll

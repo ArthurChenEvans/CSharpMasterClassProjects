@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CookiesRecipeApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fbfc38070927069bf749888fb3c6e719b0df65c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6179808693a2e105a830c9d8eed96ea9cc33fbca")]
 [assembly: System.Reflection.AssemblyProductAttribute("CookiesRecipeApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CookiesRecipeApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

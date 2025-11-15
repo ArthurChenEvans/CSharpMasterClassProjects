@@ -12,3 +12,4 @@
 /home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/obj/Debug/net10.0/DiceRollGame.pdb
 /home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/obj/Debug/net10.0/DiceRollGame.genruntimeconfig.cache
 /home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/obj/Debug/net10.0/ref/DiceRollGame.dll
+/home/chen/Documents/RiderProjects/MasterClassProjects/DiceRollGame/obj/Debug/net10.0/DiceRollGame.sourcelink.json
